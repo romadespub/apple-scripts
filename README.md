@@ -2,12 +2,12 @@
 Usefull apple scripts
 
 
-# Copy to clipboard
+# [Copy to Clipboard](/Copy%20to%20Clipboard.scpt)
 ```applescript
 set the clipboard to "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 ```
 
-# Open scrcpy
+# [Scrcpy Open](/Scrcpy%20Open.scpt)
 ```applescript
 # DEVICE_SERIAL_NUMBER: run "adb devices"
 
@@ -20,7 +20,7 @@ tell application "Terminal"
 end tell
 ```
 
-# Record scrcpy
+# [Scrcpy Record](/Scrcpy%20Record.scpt)
 ```applescript
 # DEVICE_SERIAL_NUMBER: run "adb devices"
 
