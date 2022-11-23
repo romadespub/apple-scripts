@@ -1,6 +1,8 @@
 # apple-scripts
 Usefull apple scripts
 
+![Usefull apple scripts](/assets/apple-script.gif "How to run it")
+
 
 # [Copy to Clipboard](/Copy%20to%20Clipboard.scpt)
 ```applescript
